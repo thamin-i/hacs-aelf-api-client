@@ -1,0 +1,12 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "data": {
+                    "update_interval": "[%key:common::config_flow::step::user::data::update_interval%]",
+                    "zone": "[%key:common::config_flow::step::user::data::zone%]"
+                }
+            }
+        }
+    }
+}

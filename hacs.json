@@ -1,0 +1,11 @@
+{
+    "name": "AELF API Client (unofficial)",
+    "content_in_root": false,
+    "zip_release": false,
+    "filename": null,
+    "hide_default_branch": false,
+    "country": "FR",
+    "homeassistant": "2023.0.0",
+    "hacs": "2.0.0",
+    "persistent_directory": null
+}

@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configurer AELF API Client (non officiel)",
+        "description": "Définissez vos préférences liturgiques.",
+        "data": {
+          "zone": "Zone liturgique",
+          "update_interval": "Intervalle de mise à jour (en heures)"
+        }
+      }
+    }
+  }
+}
