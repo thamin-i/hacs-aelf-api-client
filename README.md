@@ -148,3 +148,16 @@ Use the below markdown to display the daily masses in your dashboard:
 
 {% endfor %}
 ```
+
+## Screenshots
+
+Here are some screenshots of the integration in action:
+
+### Integration Setup
+![Integration Setup](screenshots/integration_setup.png)
+
+### Collapsed View
+![Integration Setup](screenshots/collapsed_view.png)
+
+### Expanded View
+![Calendar View](screenshots/expanded_view.png)
